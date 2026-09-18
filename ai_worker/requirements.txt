@@ -1,0 +1,7 @@
+pymongo>=4.11,<5
+google-genai>=1.0,<2
+# Requested legacy dependency. The worker uses the supported google-genai SDK.
+google-generativeai==0.8.5
+requests>=2.32.4,<3
+beautifulsoup4>=4.13,<5
+python-dotenv>=1.0,<2
